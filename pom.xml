@@ -11,6 +11,11 @@
     <modules>
         <module>FloatingPoint</module>
         <module>Integer</module>
+        <module>Objects</module>
+        <module>Booleans</module>
+        <module>Arrays</module>
+        <module>Main</module>
+
     </modules>
 
     <dependencies>

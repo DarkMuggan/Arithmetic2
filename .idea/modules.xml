@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic2.iml" filepath="$PROJECT_DIR$/Arithmetic2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booleans/Booleans.iml" filepath="$PROJECT_DIR$/Booleans/Booleans.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatingPoint/FloatingPoint.iml" filepath="$PROJECT_DIR$/FloatingPoint/FloatingPoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/Integer/Integer.iml" filepath="$PROJECT_DIR$/Integer/Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objects/Objects.iml" filepath="$PROJECT_DIR$/Objects/Objects.iml" />
     </modules>
   </component>
 </project>

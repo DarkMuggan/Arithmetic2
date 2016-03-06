@@ -22,14 +22,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="Arrays" />
+        <module name="Booleans" />
         <module name="FloatingPoint" />
         <module name="Integer" />
+        <module name="Main" />
+        <module name="Objects" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Arithmetic2" target="1.5" />
+      <module name="Arrays" target="1.5" />
+      <module name="Booleans" target="1.5" />
       <module name="FloatingPoint" target="1.5" />
       <module name="Integer" target="1.5" />
+      <module name="Main" target="1.5" />
+      <module name="Object" target="1.5" />
+      <module name="Objects" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
